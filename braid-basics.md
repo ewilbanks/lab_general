@@ -14,8 +14,7 @@ How?
 * `ppn=21` you want two processors
 * `walltime=00:10:00` for 10 minutes (massively overestimating time needed will slow your position in queue)  
 
-
-+*when you're done:*
+### when you're done
 type `exit` to kill the job and free up that space in queue
 
 ## some resources
