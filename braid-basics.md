@@ -18,6 +18,6 @@ How?
 type `exit` to kill the job and free up that space in queue
 
 ## some resources
-[UCSB quick start resource](http://csc.cnsi.ucsb.edu/sites/csc.cnsi.ucsb.edu/files/docs/csc_quickstart_0.pdf)]
+[UCSB quick start resource](http://csc.cnsi.ucsb.edu/sites/csc.cnsi.ucsb.edu/files/docs/csc_quickstart_0.pdf)
 
 [PBS options explained well here, oak ridge national lab resource](https://www.olcf.ornl.gov/for-users/system-user-guides/rhea/running-jobs/)
