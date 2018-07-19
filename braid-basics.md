@@ -11,7 +11,7 @@ How?
 * `-I` means interactive
 * `-V` copies over your current environmental variables
 * `nodes=1` you want a single node(`nodes=1`), 
-* `ppn=21` you want two processors
+* `ppn=2` you want two processors
 * `walltime=00:10:00` for 10 minutes (massively overestimating time needed will slow your position in queue)  
 
 ### when you're done
