@@ -1,5 +1,8 @@
 # How to braid
- Don't run on the head node
+ Don't run on the head node.  
+ 
+ Either grab an interactive session on a compute node to quickly noodle around with something.  
+ Or submit a job properly.  Examples of both are below, as are some learning resources.
  
 ## To get an interactive session on a compute node
 `qsub -I -V -l nodes=1:ppn=2 -l walltime=00:10:00`
