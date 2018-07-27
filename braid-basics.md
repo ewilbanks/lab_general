@@ -8,6 +8,7 @@ VPN information:
 
 ## Make your life easy and don't type long ssh commands and enter passwords all the time... 
 [a useful cheatsheet for avoiding passwords: SSH onto an HPC](https://alexiswl.github.io/ASimpleNanoporeTutorial/basic_shell_logging.html)
+
 [make an alias to avoid typing whole username and server id](https://scotch.io/tutorials/how-to-create-an-ssh-shortcut)
 
 # Do's and Don'ts on braid
