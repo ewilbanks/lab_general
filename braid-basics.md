@@ -1,5 +1,16 @@
 # How to braid
- Don't run on the head node.  
+## Get a user account
+details
+## Log in
+you must either be on a campus network or using the UCSB VPN.  
+VPN information:
+`ssh username@braid.cnsi.ucsb.edu`
+
+## Make your life easy and don't type long ssh commands and enter passwords all the time... 
+[a useful cheatsheet: SSH onto an HPC](https://alexiswl.github.io/ASimpleNanoporeTutorial/basic_shell_logging.html)
+
+# Do's and Don'ts on braid
+## Don't run on the head node.  
  
  Either grab an interactive session on a compute node to quickly noodle around with something.  
  Or submit a job properly.  Examples of both are below, as are some learning resources.
