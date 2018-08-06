@@ -1,6 +1,15 @@
 # How to braid
 ## Get a user account
-details
+The cluster we'll primarily use is Braid.  Check out our Slack channel #compute for details 
+about how to get your account.  Other good contact folks are 
+ http://csc.cnsi.ucsb.edu/acct
+
+To ssh into the cluster you need to either be using a campus network (e.g. physically on campus) or you need to be running the campus VPN.  Info on how to use VPN is below.  
+http://www.ets.ucsb.edu/services/campus-vpn
+
+You will need your UCSBnetID to log in.  If you don't have a ucsb campus id for some reason, we can get you access as a University Affiliate by sending an email to Paul Weakliem <weakliem@cnsi.ucsb.edu>, Fuzzy Rogers <fuz@ucsb.edu>  and stating that you are a member/collaborator of my group that needs access.  *Please cc me on any such email.*  To create your account, they will need your date of birth and the last 4 digits of your SSN if you have one.
+
+
 ## Log in
 you must either be on a campus network or using the UCSB VPN.  
 VPN information:
