@@ -7,6 +7,7 @@ Check out our Slack channel #compute for general help and questions.
 Other good contact folks are the CNSI computing folks: http://csc.cnsi.ucsb.edu/people 
 - Paul Weakliem weakliem at cnsi.ucsb.edu  
 - Fuzzy Rogers fuz at ucsb.edu
+- Sharon Solis swsolis at ucsb.edu
 
 ### Register for an account if you don't already have a username for braid
  http://csc.cnsi.ucsb.edu/acct
