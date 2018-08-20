@@ -1,6 +1,6 @@
 # Downloading and updating databases
 
-## ftp download of uniprt
+## ftp download of uniprot
 `ftp ftp.uniprot.org`
 
 You'll see:
