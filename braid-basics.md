@@ -49,6 +49,10 @@ How?
 ### when you're done
 type `exit` to kill the job and free up that space in queue
 
+## Best practice is to work by submitting jobs
+* ADD INFO ON MAKING BASH SCRIPTS HERE...
+
+
 ## some resources
 [UCSB quick start resource](http://csc.cnsi.ucsb.edu/sites/csc.cnsi.ucsb.edu/files/docs/csc_quickstart_0.pdf)
 
